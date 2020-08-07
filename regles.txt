@@ -1,0 +1,9 @@
+B et D et E alors F
+G et D alors A
+C et F alors A
+C alors D
+D alors E
+X et A alors H
+B alors X
+X et C alors A
+X et B alors D
